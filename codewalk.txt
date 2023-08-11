@@ -1,0 +1,28 @@
+Explain the flow of control through your methods and functions: specifically, start with the method or functions where the .csv files are accessed and read, 
+and then take us through the process by which the data is cleaned and parsed into at least 2 objects. 
+
+    The code that imports the data from the .csv files on the web is clearly identified and explained. (10 points)
+    The code that cleans the data is clearly explained, where the changes made from the raw data are explained, and how those changes are accomplished in the code is explained. (10 points)
+    At least one problem that was encountered in cleaning the data is explained, as well as how that problem was solved in the code. (10 points) 
+    The code that stores the data into objects is clearly explained, including the overall flow of control in the code. (10 points)
+
+
+Describe your chosen analysis: what are you doing to produce knowledge that wasn't possible with the 2 separate data sources. Explain to us the functions or methods that perform this analysis, explain the data structure that the analysis results are stored in, and explain why you chose that structure. 
+
+    The analysis that is performed on the data is clearly explained, the code that performs this analysis is described, and the data structure that the results are saved in is identified and described. (10 points)
+    It is explained how this analysis was not possible without combining the two or more data sources. (10 points)
+
+
+
+Show us the code that allows user interaction with your data, and in particular show us and explain what changes to the data are made as the result of the user input and where in the code this happens. If this code is not yet complete, explain your plans for this code. 
+
+    The input from the user that will be taken is explained. If the code is currently functional, that code is identified and walked through; if not, the future code is described. (10 points)
+
+
+Finally, show us the graph or visualization that is produced by your code, and explain how your code is generating that visualization. You don't need to explain matplotlib, but rather focus on the data structure that you're using to make the visualization, and how that data structure is being represented in the graph. 
+
+    The data visualization that results from the analysis is described, and the impact that the user input will have on the visualization is described. If the code is currently functional, that code is identified and walked through; if not, the future code is described. (10 points)
+
+
+The student, to the best of their ability, answers the professor's questions (10 points)
+The code walk is well-paced, clear, and demonstrates the student’s abilities and understanding of the topic (10 points)
